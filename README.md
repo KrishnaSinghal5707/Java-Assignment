@@ -18,10 +18,10 @@ private int empBasic
 Parameterized constructor to initialize members.
 Getter methods for all instance variables
 Create a class WriteEmployee having a main method. Ask users to enter details of an employee and set them in an Employee object. Store details of this object in a file emp.txt. Read employee details from the file and display those details. 		
-13	WAP to create a text file in the path c:/Java/abc.txt and check whether that file exists or not. Using the commands exists (), isDirectory(), isFile(), getName() and getAbsolutePath().		
-14	WAP to Implement three classes: Storage, Counter and Printer
+13.	WAP to create a text file in the path c:/Java/abc.txt and check whether that file exists or not. Using the commands exists (), isDirectory(), isFile(), getName() and getAbsolutePath().		
+14.	WAP to Implement three classes: Storage, Counter and Printer
 The Storage class should store an integer.
 The Counter class should create a thread and start counting from 0 (0,1,2, 3 ...) and store each value in the Storage class.
 The Printer class should create a thread that keeps reading the value in the Storage class and printing it.
 Write a program that creates an instance of the Storage class and set up a Counter and Printer object to operate on it.		
-15	WAP to Create a class MyThread derived from Thread class and override the run method. Create a class ThreadDemo having a main method. Create 2 objects of MyThread class and observe the behavior of threads.		
+15.	WAP to Create a class MyThread derived from Thread class and override the run method. Create a class ThreadDemo having a main method. Create 2 objects of MyThread class and observe the behavior of threads.		
