@@ -1,5 +1,5 @@
 # Java-Assignment
-In this i have covered some basic to medium level java oops questions 
+In this i have covered some basic level java questions 
 1.	WAP to insert 3 numbers from the keyboard and find a greater number among 3 numbers.
 2.	WAP to count the total number of odd numbers between 1-100, and display the sum of them. 		
 3.	WAP to Find largest and smallest numbers in an array.		
